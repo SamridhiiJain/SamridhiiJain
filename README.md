@@ -1,7 +1,6 @@
 - ABOUT ME 
 - 👋 Hi, I’m @SamridhiiJain currently persuing my Bachelor's of Technology in Computer Science ans Engineering.
 - 👀 I’m a coding enthusiast who keeps on exploring new things.
--
 
 [![@samridhijain's Holopin board](https://holopin.me/samridhijain)](https://holopin.io/@samridhijain)
 
